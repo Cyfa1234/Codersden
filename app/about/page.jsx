@@ -144,7 +144,7 @@ const AboutPage = () => {
             <div className="reason-number">1</div>
             <div className="reason-content">
               <h3>Curated Selection</h3>
-              <p>We've carefully selected the best courses available to save you time in finding quality content.</p>
+              <p>We&apos;ve carefully selected the best courses available to save you time in finding quality content.</p>
             </div>
           </div>
           <div className="reason-item">
