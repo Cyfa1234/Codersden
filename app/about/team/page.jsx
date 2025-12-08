@@ -95,7 +95,7 @@ const TeamPage = () => {
           CodersDen was founded by a group of passionate developers who believe that quality tech education should be accessible to everyone. Our diverse team brings together expertise from various tech domains to create the best learning platform possible.
         </p>
         <p>
-          We're committed to continuously improving CodersDen, discovering new courses, and providing the best learning experience for our community.
+          We&apos;re committed to continuously improving CodersDen, discovering new courses, and providing the best learning experience for our community.
         </p>
       </section>
 
@@ -168,7 +168,7 @@ const TeamPage = () => {
       <section className="team-join">
         <h2>Join Our Mission</h2>
         <p>
-          We're always looking for passionate developers to join our team. If you believe in democratizing tech education and want to make an impact, we'd love to hear from you!
+          We&apos;re always looking for passionate developers to join our team. If you believe in democratizing tech education and want to make an impact, we&apos;d love to hear from you!
         </p>
         <a href="mailto:team@codersden.com" className="contact-btn">Get In Touch</a>
       </section>

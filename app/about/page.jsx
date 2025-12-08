@@ -14,7 +14,7 @@ const AboutPage = () => {
         <div className="section-icon">📚</div>
         <h2>Welcome to CodersDen</h2>
         <p>
-          CodersDen is your comprehensive platform for discovering and accessing world-class technology courses from leading educational providers. Whether you're a beginner taking your first steps into web development or an advanced professional mastering cutting-edge technologies, CodersDen connects you with the learning resources you need to succeed.
+          CodersDen is your comprehensive platform for discovering and accessing world-class technology courses from leading educational providers. Whether you&apos;re a beginner taking your first steps into web development or an advanced professional mastering cutting-edge technologies, CodersDen connects you with the learning resources you need to succeed.
         </p>
       </section>
 
@@ -158,7 +158,7 @@ const AboutPage = () => {
             <div className="reason-number">3</div>
             <div className="reason-content">
               <h3>Smart Search</h3>
-              <p>Advanced filtering options let you find exactly what you're looking for by category, level, and platform.</p>
+              <p>Advanced filtering options let you find exactly what you&apos;re looking for by category, level, and platform.</p>
             </div>
           </div>
           <div className="reason-item">
