@@ -3,7 +3,7 @@ import Link from "next/link";
 async function fetchRepoContents(name) {
   await new Promise((resolve) => setTimeout(resolve, 3000)); // Wait for 3 seconds.
 
-  const response = await fetch(`https://api.github.com/repos/bradtraversy/${name}/contents`, {
+  const response = await fetch(`https://api.github.com/repos/torvalds/${name}/contents`, {
     next: {
       revalidate: 60,
   },

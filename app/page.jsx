@@ -11,10 +11,17 @@ const HomePage = () => {
 
   useEffect(() => {
     const fetchCourses = async () => {
-      const res = await fetch('/api/courses');
-      const data = await res.json();
-      setCourses(data);
-      setLoading(false);
+      try {
+        const res = await fetch('/api/courses');
+        if (!res.ok) throw new Error('Failed to fetch courses');
+        const data = await res.json();
+        setCourses(data);
+      } catch (error) {
+        console.error('Error fetching courses:', error);
+        setCourses([]);
+      } finally {
+        setLoading(false);
+      }
     };
 
     fetchCourses();
@@ -26,7 +33,7 @@ const HomePage = () => {
 
   return (
     <>
-      <h1>Welcome To StudyBuddy</h1>
+      <h1>Welcome To CodersDen</h1>
       <CourseSearch getSearchResults={(results) => setCourses(results)} />
       <Courses courses={courses} />
     </>

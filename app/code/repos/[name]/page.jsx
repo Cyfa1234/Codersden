@@ -7,19 +7,22 @@ import RepoDirs from "@/app/components/RepoDirs"
 
 const RepoPage = ({ params: { name } }) => {
     return (
-        <div className="card">
-            <Link href="/code/repos" className="btn btn-back">Back To Repositories</Link>
-            <Suspense fallback={<div>Loading repo...</div>}>
-                <Repo name={name} />
-            </Suspense>
+        <div className="repo-detail-container">
+            <Link href="/code/repos" className="btn btn-back">
+                ← Back To Repositories
+            </Link>
+            
+            <div className="repo-detail-content">
+                <Suspense fallback={<div className="loading-fallback">Loading repository details...</div>}>
+                    <Repo name={name} />
+                </Suspense>
 
-            <Suspense fallback={<div>Loading directories...</div>}>
-                <RepoDirs name={name} />
-            </Suspense>
-
+                <Suspense fallback={<div className="loading-fallback">Loading directories...</div>}>
+                    <RepoDirs name={name} />
+                </Suspense>
+            </div>
         </div>
     )
-
 }
 
 export default RepoPage

@@ -9,9 +9,9 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: 'StudyBuddy',
-  description: 'Web development tutorials & courses',
-  keywords: 'web development, web design, javascript, react, node, angular, vue, css',
+  title: 'CodersDen - Learn Coding & Tech Skills',
+  description: 'CodersDen is your comprehensive platform for discovering world-class technology courses. Learn React, Node.js, Python, DevOps, AI/ML, and 20+ tech stacks from curated Udemy & Coursera courses. Perfect for beginners to advanced developers.',
+  keywords: 'coding courses, learn programming, web development, react, node.js, python, typescript, docker, kubernetes, ai, machine learning, javascript, angular, vue, svelte, rust, golang, aws, graphql, database, full-stack development, mobile development',
 }
 
 export default function RootLayout({ children }) {

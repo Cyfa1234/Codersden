@@ -1,37 +1,252 @@
 [
   {
     "id": 1,
-    "title": "React Front To Back",
-    "description": "Learn Modern React, Including Hooks, Context API, Full Stack MERN & Redux By Building Real Life Projects.",
-    "link": "https://www.traversymedia.com/Modern-React-Front-To-Back-Course",
-    "level": "Beginner"
+    "title": "React - The Complete Guide",
+    "description": "Learn React with hooks, context, Redux, and build real-world projects from scratch.",
+    "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+    "level": "Beginner",
+    "category": "Frontend",
+    "platform": "Udemy",
+    "rating": 4.7
   },
   {
     "id": 2,
-    "title": "Node.js API Masterclass",
-    "description": "Build an extensive RESTful API using Node.js, Express, and MongoDB",
-    "link": "https://www.traversymedia.com/node-js-api-masterclass",
-    "level": "Intermediate"
+    "title": "The Complete JavaScript Course 2024",
+    "description": "Master JavaScript with 31+ hours of content covering ES6+, DOM, Async, OOP, and modern patterns.",
+    "link": "https://www.udemy.com/course/the-complete-javascript-course/",
+    "level": "Beginner",
+    "category": "Frontend",
+    "platform": "Udemy",
+    "rating": 4.8
   },
   {
     "id": 3,
-    "title": "Modern JavaScript From The Beginning",
-    "description": "37 hour course that teaches you all of the fundamentals of modern JavaScript.",
-    "link": "https://www.traversymedia.com/modern-javascript-2-0",
-    "level": "All Levels"
+    "title": "Node.js - The Complete Developer Course",
+    "description": "Build fast, scalable backend applications with Node.js, Express, and MongoDB.",
+    "link": "https://www.udemy.com/course/the-complete-nodejs-developer-course-2/",
+    "level": "Intermediate",
+    "category": "Backend",
+    "platform": "Udemy",
+    "rating": 4.7
   },
   {
     "id": 4,
-    "title": "Next.js Dev To Deployment",
-    "description": "Learn Next.js by building a music event website and a web dev blog as a static website",
-    "link": "https://www.traversymedia.com/next-js-dev-to-deployment",
-    "level": "Intermediate"
+    "title": "Next.js & React - The Complete Guide",
+    "description": "Master Next.js 14, Server Components, Static Generation, and full-stack development.",
+    "link": "https://www.udemy.com/course/nextjs-react-the-complete-guide/",
+    "level": "Intermediate",
+    "category": "Frontend",
+    "platform": "Udemy",
+    "rating": 4.8
   },
   {
     "id": 5,
-    "title": "50 Projects in 50 Days",
-    "description": "Sharpen your skills by building 50 quick, unique & fun mini projects.",
-    "link": "https://www.traversymedia.com/50-Projects-In-50-Days",
-    "level": "Beginner"
+    "title": "TypeScript: The Complete Developer's Guide",
+    "description": "Deep dive into TypeScript fundamentals, advanced types, and real-world applications.",
+    "link": "https://www.udemy.com/course/typescript-the-complete-developers-guide/",
+    "level": "Intermediate",
+    "category": "Frontend",
+    "platform": "Udemy",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "title": "The Complete MongoDB Course 2024",
+    "description": "Learn MongoDB from basics to advanced, including aggregation, indexing, and replication.",
+    "link": "https://www.udemy.com/course/the-complete-mongodb-course/",
+    "level": "Beginner",
+    "category": "Database",
+    "platform": "Udemy",
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "title": "PostgreSQL - The Complete Bootcamp 2024",
+    "description": "Master PostgreSQL with advanced SQL, window functions, and database design.",
+    "link": "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+    "level": "Beginner",
+    "category": "Database",
+    "platform": "Udemy",
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "title": "Vue - The Complete Guide",
+    "description": "Build dynamic web applications with Vue 3, composition API, and pinia state management.",
+    "link": "https://www.udemy.com/course/vue-the-complete-guide/",
+    "level": "Beginner",
+    "category": "Frontend",
+    "platform": "Udemy",
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "title": "Angular - The Complete Guide",
+    "description": "Master Angular 17 with TypeScript, RxJS, testing, and building enterprise applications.",
+    "link": "https://www.udemy.com/course/the-complete-angular-course/",
+    "level": "Beginner",
+    "category": "Frontend",
+    "platform": "Udemy",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "title": "Python for Everybody Specialization",
+    "description": "Learn Python programming fundamentals with real-world applications.",
+    "link": "https://www.coursera.org/specializations/python",
+    "level": "Beginner",
+    "category": "Backend",
+    "platform": "Coursera",
+    "rating": 4.8
+  },
+  {
+    "id": 11,
+    "title": "Django for Beginners & Professionals",
+    "description": "Build web applications with Django, including authentication, testing, and deployment.",
+    "link": "https://www.udemy.com/course/django-for-beginners/",
+    "level": "Beginner",
+    "category": "Backend",
+    "platform": "Udemy",
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "title": "Docker & Kubernetes: Complete Guide",
+    "description": "Master containerization with Docker and orchestration with Kubernetes.",
+    "link": "https://www.udemy.com/course/docker-kubernetes-the-complete-guide/",
+    "level": "Advanced",
+    "category": "DevOps",
+    "platform": "Udemy",
+    "rating": 4.8
+  },
+  {
+    "id": 13,
+    "title": "AWS - Certified Solutions Architect",
+    "description": "Comprehensive AWS training for cloud architecture and certification preparation.",
+    "link": "https://www.udemy.com/course/aws-certified-solutions-architect-associate/",
+    "level": "Advanced",
+    "category": "Cloud",
+    "platform": "Udemy",
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "title": "GraphQL by Example",
+    "description": "Learn GraphQL API design and implementation with Node.js and Apollo Server.",
+    "link": "https://www.udemy.com/course/graphql-by-example/",
+    "level": "Intermediate",
+    "category": "Backend",
+    "platform": "Udemy",
+    "rating": 4.6
+  },
+  {
+    "id": 15,
+    "title": "Web Design for Beginners",
+    "description": "Master HTML5, CSS3, and responsive design principles for modern web development.",
+    "link": "https://www.udemy.com/course/web-design-with-html5-css3/",
+    "level": "Beginner",
+    "category": "Frontend",
+    "platform": "Udemy",
+    "rating": 4.5
+  },
+  {
+    "id": 16,
+    "title": "Git & GitHub Mastery",
+    "description": "Complete guide to version control, branching strategies, and collaborative development.",
+    "link": "https://www.udemy.com/course/git-complete/",
+    "level": "Beginner",
+    "category": "Tools",
+    "platform": "Udemy",
+    "rating": 4.7
+  },
+  {
+    "id": 17,
+    "title": "The Web Developer Bootcamp 2024",
+    "description": "Complete bootcamp covering HTML, CSS, JavaScript, and modern web development frameworks.",
+    "link": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+    "level": "Beginner",
+    "category": "FullStack",
+    "platform": "Udemy",
+    "rating": 4.8
+  },
+  {
+    "id": 18,
+    "title": "Machine Learning A-Z™",
+    "description": "Master machine learning with Python, including supervised, unsupervised, and deep learning.",
+    "link": "https://www.udemy.com/course/machinelearning/",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "platform": "Udemy",
+    "rating": 4.5
+  },
+  {
+    "id": 19,
+    "title": "Deep Learning Specialization",
+    "description": "Learn neural networks, CNN, RNN, and advanced deep learning techniques.",
+    "link": "https://www.coursera.org/specializations/deep-learning",
+    "level": "Advanced",
+    "category": "AI/ML",
+    "platform": "Coursera",
+    "rating": 4.7
+  },
+  {
+    "id": 20,
+    "title": "Android App Development with Kotlin",
+    "description": "Build native Android apps using Kotlin, Firebase, and modern Android architecture.",
+    "link": "https://www.udemy.com/course/android-kotlin-developer/",
+    "level": "Intermediate",
+    "category": "Mobile",
+    "platform": "Udemy",
+    "rating": 4.6
+  },
+  {
+    "id": 21,
+    "title": "Swift & iOS App Development",
+    "description": "Create iOS applications with SwiftUI, Core Data, and Apple frameworks.",
+    "link": "https://www.udemy.com/course/ios-13-app-development-bootcamp/",
+    "level": "Intermediate",
+    "category": "Mobile",
+    "platform": "Udemy",
+    "rating": 4.8
+  },
+  {
+    "id": 22,
+    "title": "React Native - Build Native Mobile Apps",
+    "description": "Learn React Native to build cross-platform iOS and Android applications.",
+    "link": "https://www.udemy.com/course/react-native-the-practical-guide/",
+    "level": "Intermediate",
+    "category": "Mobile",
+    "platform": "Udemy",
+    "rating": 4.7
+  },
+  {
+    "id": 23,
+    "title": "The Complete SQL Bootcamp",
+    "description": "Master SQL with advanced queries, window functions, and database optimization.",
+    "link": "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+    "level": "Beginner",
+    "category": "Database",
+    "platform": "Udemy",
+    "rating": 4.7
+  },
+  {
+    "id": 24,
+    "title": "Web Security & Bug Bounty",
+    "description": "Learn cybersecurity principles, OWASP vulnerabilities, and ethical hacking.",
+    "link": "https://www.udemy.com/course/web-security-certification/",
+    "level": "Advanced",
+    "category": "Security",
+    "platform": "Udemy",
+    "rating": 4.6
+  },
+  {
+    "id": 25,
+    "title": "System Design Interview Course",
+    "description": "Prepare for system design interviews with scalability, load balancing, and architecture patterns.",
+    "link": "https://www.udemy.com/course/system-design-interview/",
+    "level": "Advanced",
+    "category": "Architecture",
+    "platform": "Udemy",
+    "rating": 4.7
   }
 ]
