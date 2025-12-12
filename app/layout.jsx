@@ -1,5 +1,6 @@
 import { Poppins } from 'next/font/google'
 import Header from './components/Header';
+import Footer from './components/Footer';
 import './globals.css'
 // This page is like the root html section in react.js.
 
@@ -22,6 +23,7 @@ export default function RootLayout({ children }) {
         <main className='container'>
           {children}
         </main>
+        <Footer/>
       </body>
     </html>
   )
