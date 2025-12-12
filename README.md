@@ -48,8 +48,8 @@ Learn React, Node.js, Python, DevOps, AI/ML, and 20+ tech stacks from curated Ud
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/codersden.git
-   cd codersden
+   git clone https://github.com/NosaCyfa001/Codersden.git
+   cd Codersden
    ```
 
 2. **Install dependencies**
