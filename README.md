@@ -180,9 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Website:** [https://codersden.com](https://codersden.com)
-- **About:** [https://codersden.com/about](https://codersden.com/about)
-- **Repositories:** [https://codersden.com/code/repos](https://codersden.com/code/repos)
+- **Website:** [https://codersden.com](https://codersden-cyfas-projects.vercel.app/)
 
 ## 💌 Support & Feedback
 
