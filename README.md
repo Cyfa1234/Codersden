@@ -178,20 +178,4 @@ We welcome contributions from the community! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Links
-
-- **Website:** [https://codersden.com](https://codersden.com)
-- **About:** [https://codersden.com/about](https://codersden.com/about)
-- **Repositories:** [https://codersden.com/code/repos](https://codersden.com/code/repos)
-
-## 💌 Support & Feedback
-
-- Found a bug? [Open an issue](https://github.com/yourusername/codersden/issues)
-- Have a suggestion? [Start a discussion](https://github.com/yourusername/codersden/discussions)
-- Contact us: [info@codersden.com](mailto:info@codersden.com)
-
----
-
-**Made with ❤️ by the CodersDen team**
-
 *Empowering developers, one course at a time* 🚀
